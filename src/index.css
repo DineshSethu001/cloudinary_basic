@@ -1,0 +1,28 @@
+.file-upload{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+.upload-container{
+  
+  padding: 6rem 4rem;
+  border-radius:4px ;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.upload-container input{
+  margin-left: 4rem;
+}
+.upload-icon{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 8px;
+  margin-bottom: 1rem;
+}
