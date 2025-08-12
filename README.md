@@ -204,4 +204,4 @@ npm start
 * Network Error → Ensure internet connection.
 * No image uploaded → Check if `e.target.files[0]` is valid.
 
--
+
