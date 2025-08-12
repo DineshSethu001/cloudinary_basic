@@ -1,8 +1,8 @@
 
 We’ll break it into "concepts", "step-by-step setup", and "code explanation" so a beginner can actually understand what’s going on.
 
----
-<img width="1366" height="768" alt="cloudinary " src="https://github.com/user-attachments/assets/3dc835fb-1b6a-4d69-89e7-ec090b0ee56d" />
+---![cloudinary ](https://github.com/user-attachments/assets/5461c6e6-98e8-4c11-90ab-34c56fd6871e)
+
 
 
 ## **1. What This Project Does**
